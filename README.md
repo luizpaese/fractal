@@ -16,8 +16,7 @@ Com estes comandos básicos já podemos desenhar um [triângulo](triangle.py).
 
 ![alt text](assets/triangle.gif "Triângulo")
 
-Ou ainda... (algo como uma "[espiral](intro_turtle.py)")
-
+Ou ainda... (algo como uma "[espiral](intro_turtle.py)")<br>
 ![alt text](assets/spiral.gif "Espiral quadrada")
 
 E por fim algo mais complexo, talvez um projeto de "[árvore](turtle_tree.py)"[.](https://youtu.be/j6q4FC_g6d0?t=14)
